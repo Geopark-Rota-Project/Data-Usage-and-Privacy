@@ -1,6 +1,6 @@
 # Data Usage and Privacy
 
-Privacy policy of the app **Hispetra: RotAR Geo-Naturpark** (Geo-Naturpark Bergstraße-Odenwald e.V.), German and English, published with
+Privacy policy of the app **Hispetra: Rota AR** (Geo-Naturpark Bergstraße-Odenwald e.V.), German and English, published with
 GitHub Pages:
 
 https://geopark-rota-project.github.io/Data-Usage-and-Privacy/
